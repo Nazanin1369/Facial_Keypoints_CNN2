@@ -1,0 +1,4 @@
+data
+__pycache__
+saved_models/keypoints_model_1.pt
+detector_architectures/*
